@@ -1,3 +1,4 @@
+/*
 # WordPress core files (don't track these)
 /wp-admin/
 /wp-includes/
@@ -27,3 +28,4 @@ wp-config.php
 .DS_Store
 Thumbs.db
 *.log
+*/
